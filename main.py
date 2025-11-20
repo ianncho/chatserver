@@ -19,7 +19,7 @@ def chat():
     mensaje = data.get("mensaje", "")
 
     headers = {
-        "Authorization": f"Bearer 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",
+        "Authorization": f"Bearer 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",
         "Content-Type": "application/json"
     }
 

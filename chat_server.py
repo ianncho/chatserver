@@ -1,5 +1,5 @@
     headers = {
-        "Authorization": f"Bearer {OPENROUTER_API_KEY}",
+        "Authorization": f"Bearer {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}",
         "Content-Type": "application/json"
     }
     payload = {
